@@ -1,2 +1,2 @@
 # Python_projects
-This all are the projects in python
+This all are the projects of in python
